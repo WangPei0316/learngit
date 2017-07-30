@@ -5,3 +5,4 @@ Git tracks changes of files.
 The new line.
 Creating a new branch is quick and simple.
 Add merge.
+Bug branch.
